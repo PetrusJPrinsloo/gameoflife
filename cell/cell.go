@@ -1,10 +1,10 @@
 package cell
 
 import (
+	"github.com/PetrusJPrinsloo/gameoflife/config"
+	"github.com/PetrusJPrinsloo/gameoflife/graphics"
+	"github.com/PetrusJPrinsloo/gameoflife/shape"
 	"github.com/go-gl/gl/v4.1-core/gl"
-	"gitlab.com/PetrusJPrinsloo/gameoflife/config"
-	"gitlab.com/PetrusJPrinsloo/gameoflife/graphics"
-	"gitlab.com/PetrusJPrinsloo/gameoflife/shape"
 )
 
 type Cell struct {
