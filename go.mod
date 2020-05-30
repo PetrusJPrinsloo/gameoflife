@@ -1,4 +1,4 @@
-module gitlab.com/PetrusJPrinsloo/gameoflife
+module github.com/PetrusJPrinsloo/gameoflife
 
 go 1.13
 

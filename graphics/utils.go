@@ -2,9 +2,9 @@ package graphics
 
 import (
 	"fmt"
+	"github.com/PetrusJPrinsloo/gameoflife/config"
 	"github.com/go-gl/gl/v4.1-core/gl"
 	"github.com/go-gl/glfw/v3.2/glfw"
-	"gitlab.com/PetrusJPrinsloo/gameoflife/config"
 	"log"
 	"strings"
 )

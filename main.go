@@ -1,9 +1,9 @@
 package main
 
 import (
-	"gitlab.com/PetrusJPrinsloo/gameoflife/cell"
-	"gitlab.com/PetrusJPrinsloo/gameoflife/config"
-	"gitlab.com/PetrusJPrinsloo/gameoflife/graphics"
+	"github.com/PetrusJPrinsloo/gameoflife/cell"
+	"github.com/PetrusJPrinsloo/gameoflife/config"
+	"github.com/PetrusJPrinsloo/gameoflife/graphics"
 	"io/ioutil"
 	"log"
 	"math/rand"
