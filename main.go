@@ -51,7 +51,7 @@ func getShaderFileContents(filename string) string {
 		log.Fatal(err)
 	}
 
-	// Convert []byte to string and print to screen
+	// Convert []byte to string
 	text := string(content)
 	return text
 }
