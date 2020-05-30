@@ -1,0 +1,8 @@
+{
+  "width": 1000,
+  "height": 1000,
+  "rows": 80,
+  "columns": 80,
+  "threshold": 0.15,
+  "fps": 10
+}
