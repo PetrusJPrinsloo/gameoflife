@@ -18,11 +18,18 @@ To change how the application runs just edit the default.json file in the root o
 
 ```json
 {
-  "width": 1000,      // width of the window
-  "height": 1000,     // height of the window
-  "rows": 80,         // rows of cells
-  "columns": 80,      // columns of cells
-  "threshold": 0.15,  // chance of cell being alive on start, so default is 15%
-  "fps": 10           // Frames Per Second, each frame is a new generation
+    "width": 1000,
+    "height": 1000,
+    "rows": 80,
+    "columns": 80,
+    "threshold": 0.15,
+    "fps": 10
 }
-``` 
+```
+
+* `"width": 1000` Width of the window.
+* `"height": 1000` Height of the window.
+* `"rows": 80` Rows of cells.
+* `"columns": 80` Columns of cells.
+* `"threshold": 0.15` Chance of cell being alive on start, so default is 15%.
+* `"fps": 10` Frames Per Second, each frame is a new generation.
