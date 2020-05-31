@@ -13,6 +13,8 @@ You can download and build directly from the source:
 $ go get github.com/PetrusJPrinsloo/gameoflife
 ```
 
+You will need to have gcc installed and in your PATH on windows. I have not tested this on Linux or Mac, but I would imagine you should have build tools installed there as well. This is because the GL and GLFW librarie are still C libraries and Go requires gcc to compile them. 
+
 ## Configure
 
 To change how the application runs just edit the default.json file in the root of the project.
